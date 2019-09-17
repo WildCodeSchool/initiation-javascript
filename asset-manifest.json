@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.aa96c3e7.chunk.js",
-    "main.js.map": "/static/js/main.aa96c3e7.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.707db749.js",
-    "runtime~main.js.map": "/static/js/runtime~main.707db749.js.map",
-    "static/js/2.07340b49.chunk.js": "/static/js/2.07340b49.chunk.js",
-    "static/js/2.07340b49.chunk.js.map": "/static/js/2.07340b49.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.cf579c8abf113b6d7ecde80136d1646e.js": "/precache-manifest.cf579c8abf113b6d7ecde80136d1646e.js",
-    "service-worker.js": "/service-worker.js"
+    "main.js": "https://wildcodeschool.github.io/initiation-javascript/static/js/main.373af6e7.chunk.js",
+    "main.js.map": "https://wildcodeschool.github.io/initiation-javascript/static/js/main.373af6e7.chunk.js.map",
+    "runtime~main.js": "https://wildcodeschool.github.io/initiation-javascript/static/js/runtime~main.0a168f20.js",
+    "runtime~main.js.map": "https://wildcodeschool.github.io/initiation-javascript/static/js/runtime~main.0a168f20.js.map",
+    "static/js/2.07340b49.chunk.js": "https://wildcodeschool.github.io/initiation-javascript/static/js/2.07340b49.chunk.js",
+    "static/js/2.07340b49.chunk.js.map": "https://wildcodeschool.github.io/initiation-javascript/static/js/2.07340b49.chunk.js.map",
+    "index.html": "https://wildcodeschool.github.io/initiation-javascript/index.html",
+    "precache-manifest.c5c14e65639cc1e7aec8edde804ca420.js": "https://wildcodeschool.github.io/initiation-javascript/precache-manifest.c5c14e65639cc1e7aec8edde804ca420.js",
+    "service-worker.js": "https://wildcodeschool.github.io/initiation-javascript/service-worker.js"
   }
 }
